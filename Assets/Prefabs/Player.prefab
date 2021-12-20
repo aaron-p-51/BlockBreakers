@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 106696758442782835}
   - component: {fileID: 106696758442782834}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Paddle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 7746476133775219075}
   - component: {fileID: 7237142237015970095}
   - component: {fileID: 3009306354431173619}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
